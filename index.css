@@ -1,0 +1,10 @@
+*{
+    margin: 0;padding: 0;
+}
+.red-bg{
+    background-color: red;
+    height: 100vh;
+}
+.text-dark{
+    color: black;
+}
